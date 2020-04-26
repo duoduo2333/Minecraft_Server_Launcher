@@ -3,7 +3,6 @@
 Python3.8
 
 #### 第三方库
-'''
 Pyqt5
 requests
-'''
+
