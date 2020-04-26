@@ -1,2 +1,7 @@
 # Minecraft_Server_Launcher
-Minecraft开服器
+我的世界服务器启动器
+Python3.8
+
+#### 第三方库
+Pyqt5
+requests
